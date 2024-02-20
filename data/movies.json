@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Solo Leveling",
+        "year": 2022,
+        "genre": "Adventure",
+        "rating": 7.8
+    },
+    {
+        "id": 2,
+        "title": "Midnight Serenade",
+        "year": 2023,
+        "genre": "Romance",
+        "rating": 6.5
+    },
+    {
+        "id": 3,
+        "title": "Quantum Quest",
+        "year": 2024,
+        "genre": "Sci-Fi",
+        "rating": 8.2
+    },
+    {
+        "id": 4,
+        "title": "Ghostly Whispers",
+        "year": 2021,
+        "genre": "Horror",
+        "rating": 6.9
+    },
+    {
+        "id": 5,
+        "title": "The Lost Kingdom",
+        "year": 2020,
+        "genre": "Action",
+        "rating": 7.3
+    },
+    {
+        "id": 6,
+        "title": "A Tale of Two Realms",
+        "year": 2019,
+        "genre": "Fantasy",
+        "rating": 8.5
+    },
+    {
+        "id": 7,
+        "title": "Echoes of Eternity",
+        "year": 2018,
+        "genre": "Drama",
+        "rating": 7.1
+    },
+    {
+        "id": 8,
+        "title": "Journey to the Stars",
+        "year": 2017,
+        "genre": "Adventure",
+        "rating": 7.9
+    },
+    {
+        "id": 9,
+        "title": "Whispers in the Wind",
+        "year": 2016,
+        "genre": "Mystery",
+        "rating": 6.8
+    },
+    {
+        "id": 20,
+        "title": "Journey to the Stars",
+        "year": 2017,
+        "genre": "Adventure",
+        "rating": 7.9
+    }
+]
